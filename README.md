@@ -19,3 +19,4 @@ App
 
 run.py: Contains code for a Flask app deployment and the user interface used to predict results and display them.
 
+ETL Pipeline Preparation and ML Pipeline Preparation are two jupyter notebook study files that were used for beta version of the code. 
